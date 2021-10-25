@@ -63,7 +63,7 @@
   <div class="content-wrapper">
 
 
-    @yield('content')
+    @yield('allcontent')
     
   </div>
   <!-- /.content-wrapper -->
